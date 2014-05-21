@@ -1,6 +1,6 @@
 {
-  "name": "icalendar",
-  "version": "0.6.5",
+  "name": "teeleader-icalendar",
+  "version": "0.7.0",
   "author": "James Emerton <james@tri-tech.com>",
   "description": "RFC5545 iCalendar parser/generator",
   "keywords": [
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tritech/node-icalendar.git"
+    "url": "git://github.com/teeleader/node-icalendar.git"
   },
   "dependencies": {},
   "engines": {
